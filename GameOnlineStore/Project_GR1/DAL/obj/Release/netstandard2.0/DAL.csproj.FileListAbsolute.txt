@@ -1,0 +1,13 @@
+C:\Users\nkdpr\OneDrive\Desktop\Project_GR1\Project_GR1\DAL\bin\Release\netstandard2.0\ConnectionString.txt
+C:\Users\nkdpr\OneDrive\Desktop\Project_GR1\Project_GR1\DAL\bin\Release\netstandard2.0\DAL.deps.json
+C:\Users\nkdpr\OneDrive\Desktop\Project_GR1\Project_GR1\DAL\bin\Release\netstandard2.0\DAL.dll
+C:\Users\nkdpr\OneDrive\Desktop\Project_GR1\Project_GR1\DAL\bin\Release\netstandard2.0\DAL.pdb
+C:\Users\nkdpr\OneDrive\Desktop\Project_GR1\Project_GR1\DAL\bin\Release\netstandard2.0\Persistence.dll
+C:\Users\nkdpr\OneDrive\Desktop\Project_GR1\Project_GR1\DAL\bin\Release\netstandard2.0\Persistence.pdb
+C:\Users\nkdpr\OneDrive\Desktop\Project_GR1\Project_GR1\DAL\obj\Release\netstandard2.0\DAL.csprojAssemblyReference.cache
+C:\Users\nkdpr\OneDrive\Desktop\Project_GR1\Project_GR1\DAL\obj\Release\netstandard2.0\DAL.csproj.CoreCompileInputs.cache
+C:\Users\nkdpr\OneDrive\Desktop\Project_GR1\Project_GR1\DAL\obj\Release\netstandard2.0\DAL.AssemblyInfoInputs.cache
+C:\Users\nkdpr\OneDrive\Desktop\Project_GR1\Project_GR1\DAL\obj\Release\netstandard2.0\DAL.AssemblyInfo.cs
+C:\Users\nkdpr\OneDrive\Desktop\Project_GR1\Project_GR1\DAL\obj\Release\netstandard2.0\DAL.csproj.CopyComplete
+C:\Users\nkdpr\OneDrive\Desktop\Project_GR1\Project_GR1\DAL\obj\Release\netstandard2.0\DAL.dll
+C:\Users\nkdpr\OneDrive\Desktop\Project_GR1\Project_GR1\DAL\obj\Release\netstandard2.0\DAL.pdb

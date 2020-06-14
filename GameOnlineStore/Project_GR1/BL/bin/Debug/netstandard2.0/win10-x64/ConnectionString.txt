@@ -1,0 +1,1 @@
+server=localhost;user id=root;port=3306;password=adamlevine;database=OnlineGameStore
